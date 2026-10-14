@@ -1,0 +1,8 @@
+{
+  "name": "Remix MPSP",
+  "description": "Application to generate legal investigation notification requests based on case data and individuals involved, replicating a Power Apps interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
